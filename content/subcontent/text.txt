@@ -1,0 +1,1 @@
+Here is the text from first: hello i am first file's text and second: hello i am second file's text
